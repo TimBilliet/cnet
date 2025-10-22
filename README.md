@@ -78,7 +78,7 @@ Eens je deze interactie kan uitvoeren:
 
 ### 1. Kan je het TCP gesprek capturen met WireShark? Op welke interface werk je?
 
-sudo wireshark -i lo
+sudo wireshark -i lo\
 loopback interface
 ![alt text](image-8.png)
 
