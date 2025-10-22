@@ -114,5 +114,5 @@ de status is filtered, je ziet meerdere syn requests en daarna de RST SYN fragme
 ### 5. Na stap 3 en 4 zou je het onderscheid moeten kunnen maken tussen open en filtered als status. Voer een basis portscan uit op www.meemoo.be, en formuleer welk advies je zou kunnen geven aan de beheerder van de firewall van deze server.
 
 open betekent dat de poort effectief aan het luisteren is, filtered betekent dat de firewall het tegenhoudt\
-http uitzetten!\
+De beheerder moet http uitzetten!\
 ![alt text](image-12.png)
